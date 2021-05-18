@@ -1,0 +1,17 @@
+
+data/
+###> symfony/framework-bundle ###
+/html/.env.local
+/html/.env.local.php
+/html/.env.*.local
+/html/config/secrets/prod/prod.decrypt.private.php
+/html/public/bundles/
+/html/var/
+/html/vendor/
+###< symfony/framework-bundle ###
+
+###> symfony/phpunit-bridge ###
+/html/.phpunit
+/html/.phpunit.result.cache
+/html/phpunit.xml
+###< symfony/phpunit-bridge ###
